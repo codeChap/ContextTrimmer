@@ -2,6 +2,8 @@
 
 **A tokenizer-agnostic text preprocessor for trimming context in LLM applications.**
 
+*Requires PHP 8.2 or higher.*
+
 This library provides functions to process, trim, and optimize text for large language model (LLM) context windows. It includes options for removing short words, stripping extraneous punctuation, and compressing whitespace.
 
 ## Installation
