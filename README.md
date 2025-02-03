@@ -9,7 +9,7 @@ This library provides functions to process, trim, and optimize text for large la
 Install via Composer:
 
 ```bash
-composer require codechap/context-trimmer
+composer require codechap/context-trimmer:"dev-master"
 ```
 
 ## Usage
