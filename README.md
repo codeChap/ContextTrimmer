@@ -17,7 +17,6 @@ composer require codechap/context-trimmer:"dev-master"
 Create a file (for example, `run.php`) with the following code to see the ContextTrimmer in action:
 
 ```php
-<?phpcomposer require codechap/context-trimmer
 
 require_once 'vendor/autoload.php';
 
