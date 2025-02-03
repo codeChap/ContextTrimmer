@@ -1,4 +1,4 @@
-# Codechap Context Trimmer
+# Context Trimmer
 
 **A tokenizer-agnostic text preprocessor for trimming context in LLM applications.**
 
@@ -17,7 +17,7 @@ composer require codechap/context-trimmer:"dev-master"
 Create a file (for example, `run.php`) with the following code to see the ContextTrimmer in action:
 
 ```php
-<?php
+<?phpcomposer require codechap/context-trimmer
 
 require_once 'vendor/autoload.php';
 
