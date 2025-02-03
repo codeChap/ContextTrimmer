@@ -48,14 +48,6 @@ To run the tests, use:
 composer test
 ```
 
-If you encounter an error like "Class 'codechap\ContextTrimmer\ContextTrimmer' not found", try regenerating the autoload files with:
-
-```bash
-composer dump-autoload
-```
-
-Then run the tests again.
-
 ## License
 
 This library is released under the MIT License. See the [LICENSE](LICENSE) file for details.
